@@ -59,7 +59,7 @@ function Projects() {
             <img
               className="project-image"
               src={KeyHolderImage}
-              alt="Sorting Visualizer"
+              alt=""
             />
             <div className="project-description">
               <h4>Laser Cut Key Holder</h4>
@@ -72,10 +72,10 @@ function Projects() {
           <img
             className="project-image"
             src={CupHolderImage}
-            alt="Oscilloscope"
+            alt=""
           />
           <div className="project-description">
-            <h4>Leather Knife Sheath</h4>
+            <h4>3D Printed Cup Holder</h4>
             <p>{cupHolder}</p>
           </div>
         </div>
@@ -85,7 +85,7 @@ function Projects() {
             <img
               className="project-image"
               src={KnifeHolderImage}
-              alt="Oscilloscope"
+              alt=""
             />
             <div className="project-description">
               <h4>Leather Knife Sheath</h4>
@@ -109,25 +109,25 @@ function Projects() {
             <img
                   className="project-image-mobile"
                   src={KeyHolderImage}
-                  alt="Sorting Visualizer"
+                  alt=""
             />
            <p className="project-description-mobile">{keyHolderDescription}</p>
           </div>
           <div className="project-mobile">
-            <h6 className = "project-title-mobile">Laser Cut Key Holder</h6>
+            <h6 className = "project-title-mobile">3D Printed Cup Holder</h6>
             <img
                   className="project-image-mobile"
                   src={CupHolderImage}
-                  alt="Oscilloscope"
+                  alt=""
             />
             <p className="project-description-mobile">{cupHolder}</p>
           </div>
           <div className="project-mobile">
-            <h6 className = "project-title-mobile">Oscilloscope</h6>
+            <h6 className = "project-title-mobile">Leather Knife Sheath</h6>
             <img
                   className="project-image-mobile"
                   src={KnifeHolderImage}
-                  alt="Oscilloscope"
+                  alt=""
             />
             <p className="project-description-mobile">{knifeHolderDescription}</p>
           </div>
