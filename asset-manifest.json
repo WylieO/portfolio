@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.990b79c0.chunk.css",
+    "main.js": "/portfolio/static/js/main.75d1c716.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.75d1c716.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.bf310185.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.bf310185.js.map",
+    "static/js/2.4fb1e589.chunk.js": "/portfolio/static/js/2.4fb1e589.chunk.js",
+    "static/js/2.4fb1e589.chunk.js.map": "/portfolio/static/js/2.4fb1e589.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.6d38e6aeddc772e81ce460b4a1c707b3.js": "/portfolio/precache-manifest.6d38e6aeddc772e81ce460b4a1c707b3.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.990b79c0.chunk.css.map": "/portfolio/static/css/main.990b79c0.chunk.css.map",
+    "static/js/2.4fb1e589.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4fb1e589.chunk.js.LICENSE.txt",
+    "static/media/cup_holder.png": "/portfolio/static/media/cup_holder.16c55b1a.png",
+    "static/media/headboard.png": "/portfolio/static/media/headboard.6d32619a.png",
+    "static/media/key_holder.png": "/portfolio/static/media/key_holder.dbd7c51b.png",
+    "static/media/knife_holder.png": "/portfolio/static/media/knife_holder.ce82703a.png",
+    "static/media/linkedin-icon.png": "/portfolio/static/media/linkedin-icon.898b8049.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf310185.js",
+    "static/js/2.4fb1e589.chunk.js",
+    "static/css/main.990b79c0.chunk.css",
+    "static/js/main.75d1c716.chunk.js"
+  ]
+}
